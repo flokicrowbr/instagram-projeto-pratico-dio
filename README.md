@@ -1,2 +1,4 @@
-# instagram-projeto-pratico-dio
-Projeto prático para criar uma tela inicial similar ao instagram, mentoria do projeto feito pela Digital Innovation One.
+# Primeiro projeto prático feio pela Digital Innovation One
+
+Nesse projeto a idéia é criar uma página inicial de uma rede social similar ao instagram! 
+
