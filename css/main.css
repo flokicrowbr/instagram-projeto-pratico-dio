@@ -188,7 +188,6 @@ iframe {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 15px;
   background: #f2f2f2; 
 }
 .container-login100 img{
@@ -443,18 +442,6 @@ iframe {
 }
 @media screen and (max-width: 1625px){
   .people-img img{
-    display: none;
-  }
-}
-
-@media (max-width: 700px) {
-  #get-app-text{
-    display: none;
-  }
-  #get-app .plays-image{
-    display: none;
-  }
-  #get-app .apple-image{
     display: none;
   }
 }
